@@ -1,2 +1,5 @@
 # Curso-Picpay
-Conteúdo:html+css+javascript
+Conteúdo:
+- html
+- css
+- javascript
